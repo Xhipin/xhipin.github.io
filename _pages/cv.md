@@ -11,18 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Electronics Engineering, Middle East Technical University, 2021
+* M.S. in Electrical Electronics Engineering, Middle East Technical University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2022-present: Research & Teaching Assistant
+  * Middle East Technical University
 
-* Fall 2015: Research Assistant
+* September 2021-March 2022: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -54,6 +51,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
