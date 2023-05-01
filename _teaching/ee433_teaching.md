@@ -3,7 +3,7 @@ title: "EE433 Real-Time Applications of Digital Signal Processing"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-2022-teaching
-venue: "Middle East Technical University, Electrical and Electronics Engineering Departmetn"
+venue: "Middle East Technical University, Electrical and Electronics Engineering Department"
 date: 2023-05-01
 location: "Ankara, Turkey"
 ---
