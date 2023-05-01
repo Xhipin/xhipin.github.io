@@ -83,13 +83,13 @@ analytics:
 # Site Author
 author:
   name             : "Abdullah Canbolat"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "ac_photo.jpg"
+  bio              : "Graph Signal Processing Researcher and Mathematics enthusiast, particularly in high dimensional objects(possibly infinite)"
   location         : 
-  employer         : [Middle East Technical University](https://eee.metu.edu.tr)
+  employer         : Middle East Technical University
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1ftdkfwAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "acanbola@metu.edu.tr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
