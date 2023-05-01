@@ -86,7 +86,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : 
-  employer         : "Middle East Technical University"
+  employer         : [Middle East Technical University](https://eee.metu.edu.tr)
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1ftdkfwAAAAJ&hl=en&oi=ao"
   email            :
