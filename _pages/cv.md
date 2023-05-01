@@ -19,10 +19,9 @@ Work experience
 * April 2022-present: Research & Teaching Assistant
   * Middle East Technical University
 
-* September 2021-March 2022: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2021-March 2022: Software Engineer
+  * ASELSAN
+  * Telecommunications
   
 Skills
 ======
@@ -38,13 +37,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Teaching
 ======
   <ul>{% for post in site.teaching %}
