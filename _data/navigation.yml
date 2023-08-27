@@ -12,8 +12,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
-   url: https://scholar.google.com/citations?hl=en&user=1ftdkfwAAAAJ
+  # - title: "Blog Posts"
+  #  url: https://scholar.google.com/citations?hl=en&user=1ftdkfwAAAAJ
     
   - title: "CV"
     url: /cv/
