@@ -3,20 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "My Thoughts"
-  #  url: /thoughts/    
-
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
    url: /portfolio/
+
+  - title: "CV"
+    url: /cv/
         
   # - title: "Blog Posts"
   #  url: https://scholar.google.com/citations?hl=en&user=1ftdkfwAAAAJ
-    
-  - title: "CV"
-    url: /cv/
-    
+
+    # - title: "My Thoughts"
+  #  url: /thoughts/    
+
   #- title: "Guide"
   #  url: /markdown/
