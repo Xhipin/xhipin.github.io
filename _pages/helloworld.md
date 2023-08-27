@@ -3,14 +3,36 @@ layout: archive
 title: "Hello"
 permalink: /helloworld/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+Education
+======
+* B.S. in Electrical Electronics Engineering, Middle East Technical University, 2021
+* M.S. in Electrical Electronics Engineering, Middle East Technical University, 2023 (expected)
+
+Work experience
+======
+* April 2022-present: Research & Teaching Assistant
+  * Middle East Technical University
+
+* September 2021-March 2022: Software Engineer
+  * ASELSAN
+  * Telecommunications
+
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+    
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
