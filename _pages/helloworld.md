@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Hello"
-permalink: /hello/
+permalink: /helloworld/
 author_profile: true
 ---
 
