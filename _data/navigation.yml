@@ -13,7 +13,7 @@ main:
   #  url: /portfolio/
         
   - title: "Blog Posts"
-   url: /helloworld/
+   url: https://scholar.google.com/citations?hl=en&user=1ftdkfwAAAAJ
     
   - title: "CV"
     url: /cv/
