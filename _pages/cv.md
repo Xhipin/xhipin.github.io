@@ -22,15 +22,7 @@ Work experience
 * September 2021-March 2022: Software Engineer
   * ASELSAN
   * Telecommunications
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
