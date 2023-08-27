@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Electronics Engineering, Middle East Technical University, 2021
-* M.S. in Electrical Electronics Engineering, Middle East Technical University, 2023 (expected)
+* EBE
 
 Work experience
 ======
